@@ -11,6 +11,6 @@
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/jcfjunior/)
 
     	
-  <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jcf-junior&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+  <a align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=jcf-junior&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
 </div>
