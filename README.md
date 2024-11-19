@@ -9,6 +9,8 @@
 
 <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jcf-junior&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcf-junior&layout=compact&theme=tokyonight)
+
 ![jcf-junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcf-junior&show_icons=true&theme=tokyonight)
 
 
